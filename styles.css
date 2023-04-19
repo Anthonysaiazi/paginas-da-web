@@ -1,0 +1,32 @@
+body{
+    background-color: #8F1616;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times;
+    font-size: 16px;
+    
+}
+.cabeçalho{
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    
+}
+.direita{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+}
+
+
+
+.logo{
+    width: 16px;
+    margin: 0 64px;
+}
+
+.carrinho{
+    size: 16px;
+}
